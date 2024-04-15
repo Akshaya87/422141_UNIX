@@ -1,0 +1,4 @@
+diff f1.txt f2.txt
+diff -c f1.txt f2.txt
+diff -u f1.txt f2.txt
+diff -i f1.txt f2.txt

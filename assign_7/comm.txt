@@ -1,0 +1,4 @@
+comm f1.txt f2.txt
+comm -1 f1.txt f2.txt
+comm --check-order f1.txt f2.txt
+comm --nocheck-order f1.txt f2.txt

@@ -1,0 +1,5 @@
+chown -c Akshay f1.txt
+1s -1 f1. txt
+chown -v Akshay f2.txt
+1s -1 f2. txt
+chown -f Akshay comm. sh
